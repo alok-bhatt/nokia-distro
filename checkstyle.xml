@@ -3,7 +3,7 @@
     "-//Puppy Crawl//DTD Check Configuration 1.2//EN"
     "http://www.puppycrawl.com/dtds/configuration_1_2.dtd">
 
-<!-- This is Nokia Internal Code. Not to be shared with public. 
+<!-- This is Nokia Internal Code. Not to be shared with public. Nokia property
 
   Checkstyle configuration that checks the sun coding conventions from:
 
